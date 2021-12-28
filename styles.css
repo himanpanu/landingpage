@@ -1,0 +1,136 @@
+body {
+    height: 100%;
+}
+
+html{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+    padding-left: 0.78rem; 
+}
+
+.mt{
+    position: absolute;
+    top: 5rem;
+    right: 12rem;
+}
+
+.st{
+    position: absolute;
+    bottom: 0;
+    left: 10rem;
+}
+
+.bt{
+    position: absolute;
+    top:-8rem;
+    right: 3rem;
+}
+
+.xt{
+    position: absolute;
+    top: -4.5rem;
+    left: 0;
+}
+
+.bt1{
+    position: absolute;
+    bottom: -5rem;
+    right: -3rem;
+    z-index: 998;
+}
+
+.slt1{
+    position: absolute;
+    bottom: 2rem;
+    left: 4rem;
+    color: #fff;
+}
+
+.mt1{
+    position: absolute;
+    bottom: 3rem;
+    left: 27rem;
+    color: #fff;
+}
+
+.s2i1{
+    position: absolute;
+    bottom: 0;
+    left: 13rem;
+}
+
+.s2i2{
+    position: absolute;
+    top: -5rem;
+    right: 3rem;
+}
+
+.s3i1{
+    position: absolute;
+    bottom: -3rem;
+    left: 12rem;
+}
+
+.s4i1{
+    position: absolute;
+    top: 8rem;
+    left: 9rem;
+}
+
+.s4i2{
+    position: absolute;
+    top: 8rem;
+    right: 8rem;
+}
+
+.s5i1{
+    position: absolute;
+    top: -7rem;
+    left: 9rem;
+}
+
+.s5i2{
+    position: absolute;
+    top: -2rem;
+    left: 22.3rem;
+}
+
+.s5i3{
+    position: absolute;
+    top: 8rem;
+    right: 2rem;
+}
+
+.s5i4{
+    position: absolute;
+    bottom: -10rem;
+    left: 22.3rem;
+}
+
+.s5i5{
+    position: absolute;
+    bottom: -6rem;
+    left: 9rem;
+}
+
+.s6i1{
+    position: absolute;
+    bottom: -4rem;
+    left: 15rem;
+}
+
+.s6i2{
+    position: absolute;
+    bottom: -2.6rem;
+    left: 29rem;
+}
+
+
+/* .texto {
+position: absolute;
+bottom: 4;
+left: 4;
+} */
